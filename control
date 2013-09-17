@@ -1,0 +1,9 @@
+Package: com.naken.callreminders
+Name: CallReminders
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 5.0 )
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Call contacts in reminders!
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks

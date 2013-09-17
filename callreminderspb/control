@@ -1,0 +1,9 @@
+Package: com.naken.callreminderspb
+Name: CallReminders
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 5.0 )
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Call Reminders
+Maintainer: snakeninny@gmail.com
+Author: snakeninny
+dev: snakeninny
