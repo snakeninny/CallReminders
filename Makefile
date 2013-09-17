@@ -1,5 +1,5 @@
-export ARCHS = armv7
-export TARGET = iphone:latest:4.3
+ARCHS = armv7
+TARGET = iphone:latest:4.3
 
 include theos/makefiles/common.mk
 
